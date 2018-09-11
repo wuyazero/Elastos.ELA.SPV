@@ -3,9 +3,9 @@ package db
 import (
 	"sync"
 
-	"github.com/elastos/Elastos.ELA.SPV/sdk"
+	"github.com/wuyazero/Elastos.ELA.SPV/sdk"
 
-	"github.com/elastos/Elastos.ELA.Utility/common"
+	"github.com/wuyazero/Elastos.ELA.Utility/common"
 
 	"github.com/boltdb/bolt"
 )

@@ -8,7 +8,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/elastos/Elastos.ELA/core"
+	"github.com/wuyazero/Elastos.ELA/core"
 )
 
 type Client struct {

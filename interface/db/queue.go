@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/elastos/Elastos.ELA.Utility/common"
+	"github.com/wuyazero/Elastos.ELA.Utility/common"
 )
 
 type Queue interface {

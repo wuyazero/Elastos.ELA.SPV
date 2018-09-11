@@ -1,4 +1,4 @@
-package: github.com/elastos/Elastos.ELA.SPV
+package: github.com/wuyazero/Elastos.ELA.SPV
 import:
 - package: golang.org/x/crypto
   repo:  https://github.com/golang/crypto
@@ -7,8 +7,8 @@ import:
 - package: github.com/howeyc/gopass
 - package: github.com/boltdb/bolt
 - package: github.com/cevaris/ordered_map
-- package: github.com/elastos/Elastos.ELA.Utility
-- package: github.com/elastos/Elastos.ELA
+- package: github.com/wuyazero/Elastos.ELA.Utility
+- package: github.com/wuyazero/Elastos.ELA
   subpackages:
   - bloom
   - core

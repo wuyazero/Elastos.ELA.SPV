@@ -7,12 +7,12 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/elastos/Elastos.ELA.SPV/log"
-	"github.com/elastos/Elastos.ELA.SPV/spvwallet/config"
+	"github.com/wuyazero/Elastos.ELA.SPV/log"
+	"github.com/wuyazero/Elastos.ELA.SPV/spvwallet/config"
 
-	"github.com/elastos/Elastos.ELA.Utility/common"
-	. "github.com/elastos/Elastos.ELA/bloom"
-	. "github.com/elastos/Elastos.ELA/core"
+	"github.com/wuyazero/Elastos.ELA.Utility/common"
+	. "github.com/wuyazero/Elastos.ELA/bloom"
+	. "github.com/wuyazero/Elastos.ELA/core"
 )
 
 var spv SPVService

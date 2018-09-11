@@ -2,7 +2,7 @@ package db
 
 import (
 	"fmt"
-	"github.com/elastos/Elastos.ELA.Utility/common"
+	"github.com/wuyazero/Elastos.ELA.Utility/common"
 )
 
 type STXO struct {

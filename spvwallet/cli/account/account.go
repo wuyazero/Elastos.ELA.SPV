@@ -7,11 +7,11 @@ import (
 	"strings"
 	"io/ioutil"
 
-	"github.com/elastos/Elastos.ELA.Utility/common"
-	"github.com/elastos/Elastos.ELA.Utility/crypto"
-	"github.com/elastos/Elastos.ELA.SPV/log"
-	. "github.com/elastos/Elastos.ELA.SPV/spvwallet"
-	. "github.com/elastos/Elastos.ELA.SPV/spvwallet/cli"
+	"github.com/wuyazero/Elastos.ELA.Utility/common"
+	"github.com/wuyazero/Elastos.ELA.Utility/crypto"
+	"github.com/wuyazero/Elastos.ELA.SPV/log"
+	. "github.com/wuyazero/Elastos.ELA.SPV/spvwallet"
+	. "github.com/wuyazero/Elastos.ELA.SPV/spvwallet/cli"
 
 	"github.com/urfave/cli"
 )

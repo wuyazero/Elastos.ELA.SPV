@@ -2,7 +2,7 @@ package sdk
 
 import (
 	"errors"
-	"github.com/elastos/Elastos.ELA.SPV/net"
+	"github.com/wuyazero/Elastos.ELA.SPV/net"
 )
 
 type P2PClientImpl struct {

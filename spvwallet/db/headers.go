@@ -7,9 +7,9 @@ import (
 	"math/big"
 	"sync"
 
-	"github.com/elastos/Elastos.ELA.Utility/common"
-	"github.com/elastos/Elastos.ELA.SPV/store"
-	"github.com/elastos/Elastos.ELA.SPV/log"
+	"github.com/wuyazero/Elastos.ELA.Utility/common"
+	"github.com/wuyazero/Elastos.ELA.SPV/store"
+	"github.com/wuyazero/Elastos.ELA.SPV/log"
 
 	"github.com/boltdb/bolt"
 	"github.com/cevaris/ordered_map"

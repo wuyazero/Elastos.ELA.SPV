@@ -8,7 +8,7 @@ import (
 	"sync"
 
 	"github.com/boltdb/bolt"
-	"github.com/elastos/Elastos.ELA/bloom"
+	"github.com/wuyazero/Elastos.ELA/bloom"
 	"encoding/binary"
 )
 

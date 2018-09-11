@@ -2,7 +2,7 @@ package spvwallet
 
 import (
 	"crypto/rand"
-	"github.com/elastos/Elastos.ELA.Utility/common"
+	"github.com/wuyazero/Elastos.ELA.Utility/common"
 	"testing"
 )
 

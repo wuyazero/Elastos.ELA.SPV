@@ -3,7 +3,7 @@ package net
 import (
 	"math/rand"
 	"testing"
-	"github.com/elastos/Elastos.ELA.Utility/p2p"
+	"github.com/wuyazero/Elastos.ELA.Utility/p2p"
 )
 
 func TestPeers_GetSyncPeer(t *testing.T) {

@@ -8,15 +8,15 @@ import (
 	"os"
 	"os/signal"
 
-	"github.com/elastos/Elastos.ELA.SPV/interface/db"
-	"github.com/elastos/Elastos.ELA.SPV/log"
-	"github.com/elastos/Elastos.ELA.SPV/sdk"
-	"github.com/elastos/Elastos.ELA.SPV/store"
+	"github.com/wuyazero/Elastos.ELA.SPV/interface/db"
+	"github.com/wuyazero/Elastos.ELA.SPV/log"
+	"github.com/wuyazero/Elastos.ELA.SPV/sdk"
+	"github.com/wuyazero/Elastos.ELA.SPV/store"
 
-	"github.com/elastos/Elastos.ELA.Utility/common"
-	"github.com/elastos/Elastos.ELA.Utility/p2p/msg"
-	"github.com/elastos/Elastos.ELA/bloom"
-	"github.com/elastos/Elastos.ELA/core"
+	"github.com/wuyazero/Elastos.ELA.Utility/common"
+	"github.com/wuyazero/Elastos.ELA.Utility/p2p/msg"
+	"github.com/wuyazero/Elastos.ELA/bloom"
+	"github.com/wuyazero/Elastos.ELA/core"
 )
 
 type SPVServiceImpl struct {

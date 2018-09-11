@@ -5,9 +5,9 @@ import (
 	"os/signal"
 	"encoding/binary"
 
-	"github.com/elastos/Elastos.ELA.SPV/spvwallet"
-	"github.com/elastos/Elastos.ELA.SPV/spvwallet/config"
-	"github.com/elastos/Elastos.ELA.SPV/log"
+	"github.com/wuyazero/Elastos.ELA.SPV/spvwallet"
+	"github.com/wuyazero/Elastos.ELA.SPV/spvwallet/config"
+	"github.com/wuyazero/Elastos.ELA.SPV/log"
 )
 
 func main() {

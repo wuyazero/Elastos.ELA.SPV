@@ -3,11 +3,11 @@ package sdk
 import (
 	"time"
 
-	"github.com/elastos/Elastos.ELA.Utility/common"
-	"github.com/elastos/Elastos.ELA.Utility/crypto"
-	"github.com/elastos/Elastos.ELA.Utility/p2p"
+	"github.com/wuyazero/Elastos.ELA.Utility/common"
+	"github.com/wuyazero/Elastos.ELA.Utility/crypto"
+	"github.com/wuyazero/Elastos.ELA.Utility/p2p"
 
-	ela "github.com/elastos/Elastos.ELA/core"
+	ela "github.com/wuyazero/Elastos.ELA/core"
 )
 
 const (

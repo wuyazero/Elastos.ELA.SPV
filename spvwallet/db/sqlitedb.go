@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/elastos/Elastos.ELA.SPV/log"
+	"github.com/wuyazero/Elastos.ELA.SPV/log"
 	_ "github.com/mattn/go-sqlite3"
-	"github.com/elastos/Elastos.ELA.Utility/common"
+	"github.com/wuyazero/Elastos.ELA.Utility/common"
 )
 
 const (
