@@ -1,6 +1,6 @@
 package _interface
 
-import "github.com/elastos/Elastos.ELA.SPV/net"
+import "github.com/wuyazero/Elastos.ELA.SPV/net"
 
 /*
 P2P client is the interface to interactive with the peer to peer network implementation,

@@ -7,14 +7,14 @@ import (
 	"strconv"
 	"math/rand"
 
-	. "github.com/elastos/Elastos.ELA.SPV/spvwallet/db"
-	"github.com/elastos/Elastos.ELA.SPV/log"
-	"github.com/elastos/Elastos.ELA.SPV/spvwallet/rpc"
-	"github.com/elastos/Elastos.ELA.SPV/sdk"
+	. "github.com/wuyazero/Elastos.ELA.SPV/spvwallet/db"
+	"github.com/wuyazero/Elastos.ELA.SPV/log"
+	"github.com/wuyazero/Elastos.ELA.SPV/spvwallet/rpc"
+	"github.com/wuyazero/Elastos.ELA.SPV/sdk"
 
-	. "github.com/elastos/Elastos.ELA/core"
-	. "github.com/elastos/Elastos.ELA.Utility/common"
-	"github.com/elastos/Elastos.ELA.Utility/crypto"
+	. "github.com/wuyazero/Elastos.ELA/core"
+	. "github.com/wuyazero/Elastos.ELA.Utility/common"
+	"github.com/wuyazero/Elastos.ELA.Utility/crypto"
 )
 
 var SystemAssetId = getSystemAssetId()

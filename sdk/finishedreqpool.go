@@ -3,10 +3,10 @@ package sdk
 import (
 	"sync"
 
-	"github.com/elastos/Elastos.ELA.SPV/log"
+	"github.com/wuyazero/Elastos.ELA.SPV/log"
 
-	"github.com/elastos/Elastos.ELA/bloom"
-	. "github.com/elastos/Elastos.ELA.Utility/common"
+	"github.com/wuyazero/Elastos.ELA/bloom"
+	. "github.com/wuyazero/Elastos.ELA.Utility/common"
 )
 
 type FinishedReqPool struct {

@@ -1,9 +1,9 @@
 package _interface
 
 import (
-	"github.com/elastos/Elastos.ELA.SPV/net"
+	"github.com/wuyazero/Elastos.ELA.SPV/net"
 
-	"github.com/elastos/Elastos.ELA.Utility/p2p"
+	"github.com/wuyazero/Elastos.ELA.Utility/p2p"
 )
 
 type P2PClientImpl struct {

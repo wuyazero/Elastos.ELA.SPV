@@ -3,8 +3,8 @@ package wallet
 import (
 	"fmt"
 
-	. "github.com/elastos/Elastos.ELA.SPV/spvwallet"
-	. "github.com/elastos/Elastos.ELA.SPV/spvwallet/cli"
+	. "github.com/wuyazero/Elastos.ELA.SPV/spvwallet"
+	. "github.com/wuyazero/Elastos.ELA.SPV/spvwallet/cli"
 
 	"github.com/urfave/cli"
 )

@@ -4,8 +4,8 @@ import (
 	"errors"
 	"time"
 
-	. "github.com/elastos/Elastos.ELA.Utility/common"
-	"github.com/elastos/Elastos.ELA.SPV/net"
+	. "github.com/wuyazero/Elastos.ELA.Utility/common"
+	"github.com/wuyazero/Elastos.ELA.SPV/net"
 )
 
 const (

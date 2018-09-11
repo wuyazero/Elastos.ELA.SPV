@@ -1,6 +1,6 @@
-package: github.com/elastos/Elastos.ELA.SPV
+package: github.com/wuyazero/Elastos.ELA.SPV
 import:
-- package: github.com/elastos/Elastos.ELA.Utility
+- package: github.com/wuyazero/Elastos.ELA.Utility
   version: dev
 - package: github.com/AlexpanXX/gopass
 - package: github.com/boltdb/bolt

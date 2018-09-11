@@ -6,10 +6,10 @@ import (
 	"net"
 	"time"
 
-	"github.com/elastos/Elastos.ELA.SPV/log"
+	"github.com/wuyazero/Elastos.ELA.SPV/log"
 
-	. "github.com/elastos/Elastos.ELA.Utility/p2p"
-	. "github.com/elastos/Elastos.ELA.Utility/p2p/msg"
+	. "github.com/wuyazero/Elastos.ELA.Utility/p2p"
+	. "github.com/wuyazero/Elastos.ELA.Utility/p2p/msg"
 )
 
 const (

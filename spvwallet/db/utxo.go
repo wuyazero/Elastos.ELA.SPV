@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"sort"
 
-	. "github.com/elastos/Elastos.ELA/core"
-	. "github.com/elastos/Elastos.ELA.Utility/common"
+	. "github.com/wuyazero/Elastos.ELA/core"
+	. "github.com/wuyazero/Elastos.ELA.Utility/common"
 )
 
 type UTXO struct {

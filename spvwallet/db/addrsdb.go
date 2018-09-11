@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"sync"
 
-	. "github.com/elastos/Elastos.ELA.Utility/common"
+	. "github.com/wuyazero/Elastos.ELA.Utility/common"
 )
 
 const CreateAddrsDB = `CREATE TABLE IF NOT EXISTS Addrs(

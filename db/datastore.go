@@ -1,7 +1,7 @@
 package db
 
 import (
-	"github.com/elastos/Elastos.ELA.Utility/common"
+	"github.com/wuyazero/Elastos.ELA.Utility/common"
 )
 
 type DataStore interface {

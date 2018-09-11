@@ -5,13 +5,13 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/elastos/Elastos.ELA.SPV/log"
-	"github.com/elastos/Elastos.ELA.SPV/net"
+	"github.com/wuyazero/Elastos.ELA.SPV/log"
+	"github.com/wuyazero/Elastos.ELA.SPV/net"
 
-	"github.com/elastos/Elastos.ELA/bloom"
-	. "github.com/elastos/Elastos.ELA/core"
-	. "github.com/elastos/Elastos.ELA.Utility/common"
-	"github.com/elastos/Elastos.ELA.Utility/p2p"
+	"github.com/wuyazero/Elastos.ELA/bloom"
+	. "github.com/wuyazero/Elastos.ELA/core"
+	. "github.com/wuyazero/Elastos.ELA.Utility/common"
+	"github.com/wuyazero/Elastos.ELA.Utility/p2p"
 )
 
 type RequestQueueHandler interface {

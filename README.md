@@ -98,13 +98,13 @@ glide version 0.13.1
 ```
 If you cannot see the version number, there must be something wrong when install.
 
-### Clone source code to `$GOPATH/src/github.com/elastos/` folder
-Make sure you are in the folder of `$GOPATH/src/github.com/elastos/`
+### Clone source code to `$GOPATH/src/github.com/wuyazero/` folder
+Make sure you are in the folder of `$GOPATH/src/github.com/wuyazero/`
 ```shell
-$ git clone https://github.com/elastos/Elastos.ELA.SPV.git
+$ git clone https://github.com/wuyazero/Elastos.ELA.SPV.git
 ```
 
-If clone works successfully, you should see folder structure like $GOPATH/src/github.com/elastos/Elastos.ELA.SPV/makefile
+If clone works successfully, you should see folder structure like $GOPATH/src/github.com/wuyazero/Elastos.ELA.SPV/makefile
 
 ### Glide install
 
@@ -113,8 +113,8 @@ Run `glide update && glide install` to download project dependencies.
 ### Install bolt and sqlite database
 This will make the `make` progress far more fester.
 ```shell
-$ go install github.com/elastos/Elastos.ELA.SPV/vendor/github.com/boltdb/bolt
-$ go install github.com/elastos/Elastos.ELA.SPV/vendor/github.com/mattn/go-sqlite3
+$ go install github.com/wuyazero/Elastos.ELA.SPV/vendor/github.com/boltdb/bolt
+$ go install github.com/wuyazero/Elastos.ELA.SPV/vendor/github.com/mattn/go-sqlite3
 ```
 
 ### Make

@@ -3,11 +3,11 @@ package sdk
 import (
 	"errors"
 
-	"github.com/elastos/Elastos.ELA.SPV/net"
+	"github.com/wuyazero/Elastos.ELA.SPV/net"
 
-	"github.com/elastos/Elastos.ELA/bloom"
-	"github.com/elastos/Elastos.ELA/core"
-	"github.com/elastos/Elastos.ELA.Utility/p2p/msg"
+	"github.com/wuyazero/Elastos.ELA/bloom"
+	"github.com/wuyazero/Elastos.ELA/core"
+	"github.com/wuyazero/Elastos.ELA.Utility/p2p/msg"
 )
 
 /*

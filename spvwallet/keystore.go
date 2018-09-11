@@ -7,9 +7,9 @@ import (
 	"fmt"
 	"sync"
 
-	. "github.com/elastos/Elastos.ELA.SPV/sdk"
-	. "github.com/elastos/Elastos.ELA.Utility/common"
-	"github.com/elastos/Elastos.ELA.Utility/crypto"
+	. "github.com/wuyazero/Elastos.ELA.SPV/sdk"
+	. "github.com/wuyazero/Elastos.ELA.Utility/common"
+	"github.com/wuyazero/Elastos.ELA.Utility/crypto"
 )
 
 const (

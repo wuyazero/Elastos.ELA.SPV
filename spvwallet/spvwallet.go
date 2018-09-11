@@ -3,14 +3,14 @@ package spvwallet
 import (
 	"sync"
 
-	. "github.com/elastos/Elastos.ELA.SPV/db"
-	"github.com/elastos/Elastos.ELA.SPV/sdk"
-	"github.com/elastos/Elastos.ELA.SPV/spvwallet/db"
-	"github.com/elastos/Elastos.ELA.SPV/spvwallet/rpc"
+	. "github.com/wuyazero/Elastos.ELA.SPV/db"
+	"github.com/wuyazero/Elastos.ELA.SPV/sdk"
+	"github.com/wuyazero/Elastos.ELA.SPV/spvwallet/db"
+	"github.com/wuyazero/Elastos.ELA.SPV/spvwallet/rpc"
 
-	"github.com/elastos/Elastos.ELA/bloom"
-	. "github.com/elastos/Elastos.ELA/core"
-	. "github.com/elastos/Elastos.ELA.Utility/common"
+	"github.com/wuyazero/Elastos.ELA/bloom"
+	. "github.com/wuyazero/Elastos.ELA/core"
+	. "github.com/wuyazero/Elastos.ELA.Utility/common"
 )
 
 func Init(clientId uint64, seeds []string) (*SPVWallet, error) {
